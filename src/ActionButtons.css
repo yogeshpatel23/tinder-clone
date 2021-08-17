@@ -1,0 +1,12 @@
+.actionButtons {
+    position: fixed;
+    bottom: 3vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.actionButtons .MuiIconButton-root {
+    background-color: white;
+    box-shadow: 0 10px 53px 0 rgba(0, 0, 0, 0.3);
+}
